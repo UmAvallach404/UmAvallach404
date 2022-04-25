@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a job that I can develop myself.
-- 🥅 2022 Goals: Graduate and learn more about frontend development
+- 🥅 2022 Goals: Graduate and learn more about Backend Development
 - ⚡ Fun fact: I love to read comics and play basketball
 
 ### Connect with me:
